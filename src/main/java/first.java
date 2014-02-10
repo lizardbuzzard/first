@@ -9,5 +9,6 @@ public class first {
         Calculator myCalc = new Calculator();
         myCalc.setName("Sergey");
         System.out.println(myCalc.getName());
+        System.out.println(myCalc.getSum(20, 30));
     }
 }
