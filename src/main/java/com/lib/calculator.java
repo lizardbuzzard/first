@@ -6,7 +6,9 @@ package com.lib;
 public class Calculator {
     private String name;
 
+
     public void setName(String name){
+
         this.name = name;
     }
 
@@ -14,5 +16,10 @@ public class Calculator {
     public String getName(){
         return name;
     }
+
+    public int getSum(int x, int y){
+        return x+y;
+    }
+
 }
 
