@@ -10,6 +10,7 @@ public class Calculator {
         this.name = name;
     }
 
+    // Use gitName class.
     public String getName(){
         return name;
     }
