@@ -18,6 +18,7 @@ public class Calculator {
     }
 
     // Returns the sum of X and Y values.
+    //x.y
     public int getSum(int x, int y){
         return x+y;
     }
