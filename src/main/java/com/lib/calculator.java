@@ -17,7 +17,7 @@ public class Calculator {
         return name;
     }
 
-    // Returns the sum of X and Y values.
+    // Returns the sum of X and Y values...
     //x.y
     public int getSum(int x, int y){
         return x+y;
